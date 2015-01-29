@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-
+//Add GitHub 2015/01/29
 public class MainActivity extends ActionBarActivity {
 
     @Override
